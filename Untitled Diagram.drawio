@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T07:27:03.837Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.40 Safari/537.36 Edg/92.0.902.9" etag="shHDmATywyLR2ynrRoEx" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T07:38:26.678Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.40 Safari/537.36 Edg/92.0.902.9" etag="paSzwQaaa-Hqr7_LU3cw" version="15.7.3" type="github">
   <diagram id="QuWYMFL5e3HPU13Q_Ody" name="Page-1">
     <mxGraphModel dx="1422" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,16 +25,16 @@
         <mxCell id="OwGhvqajabSdBus2EmIz-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DEFFDE;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="75" y="390" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OwGhvqajabSdBus2EmIz-8" value="电子终端" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="105" y="270" width="80" height="30" as="geometry" />
+        <mxCell id="OwGhvqajabSdBus2EmIz-8" value="渠手机客户端端" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="98" y="270" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OwGhvqajabSdBus2EmIz-9" value="&lt;font color=&quot;#2b41ff&quot;&gt;渠道接入层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="100" y="230" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OwGhvqajabSdBus2EmIz-11" value="手机端" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="OwGhvqajabSdBus2EmIz-11" value="渠道智能终端" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="105" y="310" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OwGhvqajabSdBus2EmIz-12" value="渠道进件&lt;br&gt;管理平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="OwGhvqajabSdBus2EmIz-12" value="汽车金融平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="105" y="400" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OwGhvqajabSdBus2EmIz-13" value="天津邮储中台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#2B41FF;fontStyle=1" vertex="1" parent="1">
