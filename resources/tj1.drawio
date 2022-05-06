@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T13:17:01.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="JmgjPbNDBSmfg6D7AOtq" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-06T13:17:13.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="TovdiLzuPFq-Wd8XHsnF" version="18.0.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="2013" dy="1254" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2873" dy="1734" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -354,9 +354,6 @@
         <mxCell id="gU0W0a0gaiFxxWFm-yPo-57" value="影像资料上传接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="gU0W0a0gaiFxxWFm-yPo-53" vertex="1">
           <mxGeometry x="43" y="404" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gU0W0a0gaiFxxWFm-yPo-58" value="根据返回结果，客户端到达上传影像资料、补传影像资料、拒单、放款完成" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=15;verticalAlign=middle;" parent="gU0W0a0gaiFxxWFm-yPo-53" vertex="1">
-          <mxGeometry x="40" y="649" width="120" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="gU0W0a0gaiFxxWFm-yPo-73" value="贴息方案详情接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="gU0W0a0gaiFxxWFm-yPo-53" vertex="1">
           <mxGeometry x="40" y="151" width="120" height="60" as="geometry" />
         </mxCell>
@@ -456,6 +453,9 @@
         </mxCell>
         <mxCell id="gU0W0a0gaiFxxWFm-yPo-42" value="根据返回结果，客户端到达录入融资方案、上传影像资料、补传影像资料、拒单、放款完成" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=15;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2" y="1643" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gU0W0a0gaiFxxWFm-yPo-58" value="根据返回结果，客户端到达上传影像资料、补传影像资料、拒单、放款完成" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=15;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="2784" width="120" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
