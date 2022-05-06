@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T13:17:35.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="rsBfH09Gt4nhCjLEY68O" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-06T13:42:25.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="IIdJzO_lxDWajFrnna0R" version="18.0.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="2013" dy="1254" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2385" dy="1462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -230,7 +230,7 @@
         <mxCell id="gU0W0a0gaiFxxWFm-yPo-67" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;录入客户信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="gU0W0a0gaiFxxWFm-yPo-1" vertex="1">
           <mxGeometry x="56" y="55" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gU0W0a0gaiFxxWFm-yPo-5" value="天津中台" style="swimlane;verticalAlign=middle;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="gU0W0a0gaiFxxWFm-yPo-5" value="天津中台" style="swimlane;verticalAlign=middle;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-210" y="1120" width="200" height="850" as="geometry" />
         </mxCell>
         <mxCell id="gU0W0a0gaiFxxWFm-yPo-15" value="接收渠道方客户信息接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="gU0W0a0gaiFxxWFm-yPo-5" vertex="1">
@@ -245,14 +245,17 @@
         <mxCell id="gU0W0a0gaiFxxWFm-yPo-34" value="影像资料上传接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="gU0W0a0gaiFxxWFm-yPo-5" vertex="1">
           <mxGeometry x="43" y="397" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gU0W0a0gaiFxxWFm-yPo-3" value="渠道进件后台" style="swimlane;" parent="1" vertex="1">
+        <mxCell id="gU0W0a0gaiFxxWFm-yPo-3" value="渠道进件后台" style="swimlane;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="-450" y="1120" width="240" height="850" as="geometry" />
         </mxCell>
         <mxCell id="gU0W0a0gaiFxxWFm-yPo-13" value="提交客户信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="gU0W0a0gaiFxxWFm-yPo-3" vertex="1">
           <mxGeometry x="60" y="109" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gI9XP9p-4YF3_r4ZpEHV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="gU0W0a0gaiFxxWFm-yPo-3" source="gU0W0a0gaiFxxWFm-yPo-17" target="gI9XP9p-4YF3_r4ZpEHV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gU0W0a0gaiFxxWFm-yPo-17" value="定时器" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="gU0W0a0gaiFxxWFm-yPo-3" vertex="1">
-          <mxGeometry x="60" y="682" width="120" height="60" as="geometry" />
+          <mxGeometry x="16" y="655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gU0W0a0gaiFxxWFm-yPo-21" value="查询同步状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="gU0W0a0gaiFxxWFm-yPo-3" vertex="1">
           <mxGeometry x="60" y="563" width="120" height="60" as="geometry" />
@@ -261,7 +264,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="123" y="711" />
+              <mxPoint x="80" y="641" />
+              <mxPoint x="80" y="641" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -273,6 +277,15 @@
         </mxCell>
         <mxCell id="gU0W0a0gaiFxxWFm-yPo-38" value="提交补传影像资料" style="rounded=0;whiteSpace=wrap;html=1;" parent="gU0W0a0gaiFxxWFm-yPo-3" vertex="1">
           <mxGeometry x="60" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI9XP9p-4YF3_r4ZpEHV-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="gU0W0a0gaiFxxWFm-yPo-3" source="gI9XP9p-4YF3_r4ZpEHV-14" target="gI9XP9p-4YF3_r4ZpEHV-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gI9XP9p-4YF3_r4ZpEHV-14" value="同步经销商、合作方、账户信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="gU0W0a0gaiFxxWFm-yPo-3">
+          <mxGeometry x="60" y="755" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI9XP9p-4YF3_r4ZpEHV-27" value="查询经销商接口、&lt;br&gt;合作方项目接口、&lt;br&gt;经销商账户信息接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="gU0W0a0gaiFxxWFm-yPo-3">
+          <mxGeometry x="284" y="712" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gU0W0a0gaiFxxWFm-yPo-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gU0W0a0gaiFxxWFm-yPo-11" target="gU0W0a0gaiFxxWFm-yPo-13" edge="1">
           <mxGeometry relative="1" as="geometry">
