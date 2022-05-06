@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T13:42:25.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="IIdJzO_lxDWajFrnna0R" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-06T13:43:10.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="y-R4y8yDXVlGbuBFpnIg" version="18.0.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="2385" dy="1462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2622" dy="1594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -332,7 +332,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gU0W0a0gaiFxxWFm-yPo-45" value="渠道进件App" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="-670" y="2264" width="231" height="850" as="geometry" />
+          <mxGeometry x="-670" y="2264" width="232" height="850" as="geometry" />
         </mxCell>
         <mxCell id="gU0W0a0gaiFxxWFm-yPo-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="gU0W0a0gaiFxxWFm-yPo-45" source="gU0W0a0gaiFxxWFm-yPo-47" target="gU0W0a0gaiFxxWFm-yPo-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -456,7 +456,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gI9XP9p-4YF3_r4ZpEHV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="gU0W0a0gaiFxxWFm-yPo-48" target="gU0W0a0gaiFxxWFm-yPo-60">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-488" y="2445" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gI9XP9p-4YF3_r4ZpEHV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="gU0W0a0gaiFxxWFm-yPo-65" target="gU0W0a0gaiFxxWFm-yPo-57">
           <mxGeometry relative="1" as="geometry" />
