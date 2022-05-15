@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T11:57:40.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="WnYIJ_B_srbMw7VddoL-" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-15T12:04:33.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="r5CwiM5xvSyrgo-2rlk5" version="18.0.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="2013" dy="1254" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2385" dy="1462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -683,6 +683,45 @@
         </mxCell>
         <mxCell id="fGIOzbz2lDKWcKWGyc6j-112" value="&lt;font color=&quot;#0037a6&quot;&gt;数据同步&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFBF7;" vertex="1" parent="1">
           <mxGeometry x="-359" y="4880" width="67" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="fGIOzbz2lDKWcKWGyc6j-114" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BCEBFF;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-838" y="5211" width="299" height="269" as="geometry" />
+        </mxCell>
+        <mxCell id="fGIOzbz2lDKWcKWGyc6j-115" value="应用服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-798" y="5314" width="93" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="fGIOzbz2lDKWcKWGyc6j-116" value="批量任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="5314" width="93" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="fGIOzbz2lDKWcKWGyc6j-117" value="日终任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="5378" width="93" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="fGIOzbz2lDKWcKWGyc6j-118" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-816" y="5124" width="93" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="fGIOzbz2lDKWcKWGyc6j-119" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFBF7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.227;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fGIOzbz2lDKWcKWGyc6j-118" target="fGIOzbz2lDKWcKWGyc6j-114">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-542" y="5341" as="sourcePoint" />
+            <mxPoint x="-492" y="5291" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fGIOzbz2lDKWcKWGyc6j-120" value="关联系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-482" y="5318" width="93" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="fGIOzbz2lDKWcKWGyc6j-121" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#FFFBF7;exitX=1;exitY=0.472;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fGIOzbz2lDKWcKWGyc6j-114" target="fGIOzbz2lDKWcKWGyc6j-120">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-542" y="5341" as="sourcePoint" />
+            <mxPoint x="-492" y="5291" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fGIOzbz2lDKWcKWGyc6j-122" value="网关服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-798" y="5254" width="93" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="fGIOzbz2lDKWcKWGyc6j-123" value="定时服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-798" y="5378" width="93" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="fGIOzbz2lDKWcKWGyc6j-124" value="&lt;font color=&quot;#000000&quot;&gt;调度服务、业务子系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFBF7;" vertex="1" parent="1">
+          <mxGeometry x="-761" y="5218" width="151" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
